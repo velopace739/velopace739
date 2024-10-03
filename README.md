@@ -9,7 +9,7 @@
 </p>
 
  # Frontend skills
- 	- React.js, React Native, Next.js, Vue.js, WordPress, Redux-Saga/Redux-Thunk
+  - React.js, React Native, Next.js, Vue.js, WordPress, Redux-Saga/Redux-Thunk
   - Svelte, Angular, Lit
   - HTML5, CSS3, SASS / Bootstrap, Styled components
   - JavaScript, jQuery, Ajax
@@ -21,5 +21,5 @@
   - Node.js / Express / RESTful APIs, GraphQL
   - JWT, OAuth2, Data Encryption, Secure API Design, XSS/CSRF Protection
   - MySQL, MongoDB, PostgreSQL, Redis
-	- Docker, Kubernetes, Jenkins, GitLab CI, AWS (EC2, S3, Lambda, RDS)
+  - Docker, Kubernetes, Jenkins, GitLab CI, AWS (EC2, S3, Lambda, RDS)
   - Microservices, Serverless Architecture
