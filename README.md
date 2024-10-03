@@ -9,6 +9,7 @@
 </p>
 
  # Frontend skills
+ ```
   - React.js, React Native, Next.js, Vue.js, WordPress, Redux-Saga/Redux-Thunk
   - Svelte, Angular, Lit
   - HTML5, CSS3, SASS / Bootstrap, Styled components
@@ -16,10 +17,12 @@
   - TypeScript
   - Ant Design / Material Design / LESS / SASS
   - WebPack, NPM, Yarn
-
+```
  # Backend skills
+ ``` 
   - Node.js / Express / RESTful APIs, GraphQL
   - JWT, OAuth2, Data Encryption, Secure API Design, XSS/CSRF Protection
   - MySQL, MongoDB, PostgreSQL, Redis
   - Docker, Kubernetes, Jenkins, GitLab CI, AWS (EC2, S3, Lambda, RDS)
   - Microservices, Serverless Architecture
+```
