@@ -7,8 +7,9 @@
 <p align='center'>
 <img src='https://github-widgetbox.vercel.app/api/profile?username=velopace739&data=followers,repositories,stars,commits' />
 </p>
- # Blockchain skills
- ```
+
+# Blockchain skills
+```
   - Smart contracts, Solidity
   - Web3.js, Ethers.js
   - dApps
@@ -16,9 +17,9 @@
   - Truffle, Hardhat
   - Ganache, waffle
   - Infura, Alchemy, Moralis
- ```
- # Frontend skills
- ```
+```
+# Frontend skills
+```
   - React.js, React Native, Next.js, Vue.js, WordPress, Redux-Saga/Redux-Thunk
   - Svelte, Angular, Lit
   - HTML5, CSS3, SASS / Bootstrap, Styled components
@@ -27,8 +28,8 @@
   - Ant Design / Material Design / LESS / SASS
   - WebPack, NPM, Yarn
 ```
- # Backend skills
- ``` 
+# Backend skills
+``` 
   - Node.js / Express / RESTful APIs, GraphQL
   - JWT, OAuth2, Data Encryption, Secure API Design, XSS/CSRF Protection
   - MySQL, MongoDB, PostgreSQL, Redis
