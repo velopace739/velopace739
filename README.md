@@ -7,7 +7,16 @@
 <p align='center'>
 <img src='https://github-widgetbox.vercel.app/api/profile?username=velopace739&data=followers,repositories,stars,commits' />
 </p>
-
+ # Blockchain skills
+ ```
+  - Smart contracts, Solidity
+  - Web3.js, Ethers.js
+  - dApps
+  - NFT, ERC721, ERC1155
+  - Truffle, Hardhat
+  - Ganache, waffle
+  - Infura, Alchemy, Moralis
+ ```
  # Frontend skills
  ```
   - React.js, React Native, Next.js, Vue.js, WordPress, Redux-Saga/Redux-Thunk
