@@ -3,7 +3,7 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Full Stack Web3 Developer</h1>
 
 <h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{velopace739}/count.svg" alt="velopace739 :: Visitor's Count" /></p>
+<p align="center"><img src="https://api.visitorbadge.io/api/visitors?path=velopace739&label=Visitors&countColor=#263759" alt="velopace739 :: Visitor's Count" /></p>
 
 <p align='center'>
 <img src='https://github-widgetbox.vercel.app/api/profile?username=velopace739&data=followers,repositories,stars,commits' />
